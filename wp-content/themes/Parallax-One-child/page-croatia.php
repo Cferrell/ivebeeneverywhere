@@ -72,7 +72,7 @@
 
 					<?php ;/* Start the Loop */ ?>
 					<?php
-					query_posts ('cat=4');
+					query_posts ('cat=croatia');
 					while ( have_posts() ) :
 						the_post();
 ?>
