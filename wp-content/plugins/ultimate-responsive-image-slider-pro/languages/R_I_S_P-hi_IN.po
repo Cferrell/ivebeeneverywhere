@@ -1,0 +1,1073 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Responsive Image Slider Pro\n"
+"POT-Creation-Date: 2017-08-19 15:24+0530\n"
+"PO-Revision-Date: 2017-08-19 15:24+0530\n"
+"Last-Translator: Weblizar <lizarweb@gmail.com>\n"
+"Language-Team: \n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:472
+msgid "Slider Layout"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:475
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:476
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:477
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:478
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:479
+msgid "Layout"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:475
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:476
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:477
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:478
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:479
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:507
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:522
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:537
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:551
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:606
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:619
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:632
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:683
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:698
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:720
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:764
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:777
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:837
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:852
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:882
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:898
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:913
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:929
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1021
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1036
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1065
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1122
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1139
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1160
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1204
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1217
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1268
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1283
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1303
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1358
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1371
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1384
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1409
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1423
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1436
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1475
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1490
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1505
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1518
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1531
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1544
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1556
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1568
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1580
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1605
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1629
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1641
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1666
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1680
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1693
+msgid "Preview"
+msgstr "पूर्व दर्शन"
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:485
+msgid "Configure Slider Layout 1 Settings For Slider Shortcode"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:489
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:864
+msgid "Slider Text Alignment"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:494
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:869
+msgid "Top Left"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:495
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:870
+msgid "Top Center"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:496
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:871
+msgid "Top Right"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:497
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:872
+msgid "Middle Left"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:498
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:873
+msgid "Middle"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:499
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:874
+msgid "Middle Right"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:500
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:875
+msgid "Bottom Left"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:501
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:876
+msgid "Bottom Center"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:502
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:877
+msgid "Bottom Right"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:506
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:881
+msgid "Select a position to place slides text (title, description, read more link)"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:513
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:889
+msgid "Title Transition Effect"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:516
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:531
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:892
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:907
+msgid "From Left"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:517
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:532
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:893
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:908
+msgid "From Right"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:518
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:533
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:894
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:909
+msgid "From Up"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:519
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:534
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:895
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:910
+msgid "From Down"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:521
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:897
+msgid "Select a transition effect apply on slide title"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:528
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:904
+msgid "Description Transition Effect"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:536
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:912
+msgid "Select a transition effect apply on slide description"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:543
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:712
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:919
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1152
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1295
+msgid "Auto Play Slide Show"
+msgstr "ऑटो प्ले स्लाइड शो"
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:546
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:715
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:924
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1155
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1298
+msgid "Yes"
+msgstr "हाँ"
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:547
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:716
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:925
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1156
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1299
+msgid "Yes with Pause On Mouse Hover"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:548
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:717
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:926
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1157
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1300
+msgid "No"
+msgstr "नहीं"
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:550
+msgid "Select an option to auto slide enable or disable"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:557
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:726
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:935
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1166
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1309
+msgid "Slide Order"
+msgstr "स्लाइड आदेश"
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:560
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:729
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:940
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1169
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1312
+msgid "Ascending"
+msgstr "आरोही"
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:561
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:730
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:941
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1170
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1313
+msgid "Descending"
+msgstr "अवरोही"
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:562
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:731
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:942
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1171
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1314
+msgid "Random"
+msgstr "क्रमरहित"
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:564
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:733
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:944
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1173
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1316
+msgid "Select an option to decide slide show order"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:570
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:739
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:950
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1179
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1322
+msgid "Slide Distance"
+msgstr "स्लाइड दूरी"
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:582
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:751
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:964
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1191
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1334
+msgid "Set a gap between all slides. Range 0 to 25"
+msgstr "सभी स्लाइड्स के बीच एक खाई सेट करें। रेंज 0-25"
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:588
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1340
+msgid "Selected Thumbnail Pointer Color"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:593
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1345
+msgid "Select a color you want to apply on selected thumbnail pointer"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:599
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:757
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1012
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1197
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1351
+msgid "Sliding Arrow"
+msgstr "तीर फिसलने"
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:605
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:763
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1020
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1203
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1357
+msgid "Select Yes/No option to show or hide arrows on mouse hover on slide"
+msgstr "स्लाइड पर माउस मंडराना पर तीर दिखाने या छिपाने के लिए हां / नहीं विकल्प का चयन करें"
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:612
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1402
+msgid "Show Detailed Navigation"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:618
+msgid ""
+"Select Yes/No option to show or hide details (Title & Description) based navigation below "
+"slides"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:625
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:770
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1056
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1210
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1377
+msgid "Show Navigation Bullets"
+msgstr "नेविगेशन बुलेट दिखाएँ"
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:631
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:776
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1064
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1216
+msgid "Select Yes/No option to show or hide slider navigation buttons under image slider"
+msgstr "छवि स्लाइडर के तहत स्लाइडर नेविगेशन बटन दिखाने या छिपाने के लिए हां / नहीं विकल्प का चयन करें"
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:638
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:783
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1071
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1223
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1390
+msgid "Navigation Bullets Style"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:641
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:786
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1074
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1226
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1393
+msgid "Circle"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:642
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:787
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1075
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1227
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1394
+msgid "Rectangle"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:644
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:789
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1077
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1229
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1396
+msgid "Select navigation style you want to apply on navigation bullets"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:650
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:795
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1083
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1235
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1442
+msgid "Slider Transition Speed"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:655
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:800
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1089
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1240
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1447
+msgid ""
+"Enter 500 to 5000 between numeric value for increase / decrease slider transition speed. "
+"Default transition speed 5000"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:661
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:806
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1095
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1246
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1453
+msgid "Slider Transition Effect"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:667
+msgid "Set a slide transition effect"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:673
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:818
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1108
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1258
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1465
+msgid "Slider Width"
+msgstr "स्लाइडर चौड़ाई"
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:677
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1116
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1262
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1469
+msgid "100% Width"
+msgstr "100% चौड़ाई"
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:678
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1117
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1263
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1470
+msgid "Full Width"
+msgstr "पूरी चौड़ाई"
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:679
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:694
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:848
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1118
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1135
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1264
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1279
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1471
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1486
+msgid "Custom"
+msgstr "बनाइए"
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:682
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1121
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1267
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1474
+msgid "Enter your desired width for slider. Default width is 1000px"
+msgstr "स्लाइडर के लिए अपने इच्छित चौड़ाई दर्ज करें। डिफ़ॉल्ट चौड़ाई 1000px है"
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:689
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:843
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1128
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1274
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1481
+msgid "Slider Height"
+msgstr "स्लाइडर ऊंचाई"
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:693
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:847
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1134
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1278
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1485
+msgid "Auto Height"
+msgstr "ऑटो ऊँचाई"
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:697
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:851
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1138
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1282
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1489
+msgid "Enter your desired height for slider. Default height is 500px"
+msgstr "स्लाइडर के लिए अपने वांछित ऊंचाई दर्ज करें। तयशुदा ऊंचाई 500px है"
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:707
+msgid "Configure Slider Layout 2 Settings For Slider Shortcode"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:719
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:928
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1159
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1302
+msgid "Select Yes/No option to auto slide enable or disable into slider"
+msgstr "ऑटो स्लाइड करने के लिए हां / नहीं विकल्प का चयन करें"
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:812
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1102
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1252
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1459
+msgid "Set a slide transition effect fade or slide"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:822
+msgid "Force Full Width"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:823
+msgid "Percentage Width"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:836
+msgid "Force slider width to according to container width."
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:861
+msgid "Configure Slider Layout 3 Settings For Slider Shortcode"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:970
+msgid "Selected Thumbnail Style"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:975
+msgid "Border"
+msgstr "सीमा"
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:976
+msgid "Pointer"
+msgstr "सूचक"
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:978
+msgid "Select a thumbnail style to apply on selected thumbnail"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:984
+msgid "Selected Thumbnail Style Color"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:989
+msgid "Select a color you to apply on selected"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:995
+msgid "Thumbnail Resize"
+msgstr "थंबनेल आकार"
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1003
+msgid "Width"
+msgstr "चौड़ाई"
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1004
+msgid "Height"
+msgstr "ऊंचाई"
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1006
+msgid "Set custom thumbnail height & width according to you"
+msgstr "आप के अनुसार कस्टम थंबनेल लम्बाई और चौड़ाई सेट करें"
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1027
+msgid "Show Thumbnail Navigation"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1035
+msgid "Select Yes/No option to show or hide thumbnail based navigation under slides"
+msgstr "थम्बनेल आधारित नेविगेशन दिखाने के लिए हां । नहीं विकल्प का चयन करें"
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1042
+msgid "Thumbnail Position"
+msgstr "थंबनेल स्थिति"
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1047
+msgid "Top"
+msgstr "ऊपर"
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1048
+msgid "Bottom"
+msgstr ""
+"नीचे\n"
+"\t"
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1050
+msgid "Select a thumbnail position to show above or below the slider"
+msgstr "स्लाइडर ऊपर या नीचे दिखाने के लिए एक थंबनेल स्थिति का चयन करें"
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1148
+msgid "Configure Slider Layout 4 Settings For Slider Shortcode"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1292
+msgid "Configure Slider Layout 5 Settings For Slider Shortcode"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1364
+msgid "Sliding Direction"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1367
+msgid "Vertical"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1368
+msgid "Horizontal"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1370
+msgid "Select Vertical/Horizontal option for sliding direction of slides"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1383
+msgid "Select Yes/No option to show or hide slider navigation buttons under slider"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1408
+msgid ""
+"Select Yes/No option to show or hide detailed based navigation(Title + Description + "
+"Thumbnail)"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1415
+msgid "Detailed Navigation Content"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1418
+msgid "Only Thumbnail"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1419
+msgid "Only Title & Description"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1420
+msgid "Both (Thumbnail + Title & Description)"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1422
+msgid "Select any option to show into detailed navigation"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1429
+msgid "Detailed Navigation Position"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1432
+msgid "Left Side"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1433
+msgid "Right Side"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1435
+msgid ""
+"Select Left/Right option to show detailed based navigation on left OR right of the slider"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1498
+msgid "Title Color"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1504
+msgid "Choose a color for slide title appears on slides"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1511
+msgid "Title Background Color"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1517
+msgid "Choose a background color for slide title appears on slides"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1524
+msgid "Description Color"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1530
+msgid "Choose a color for slide description appears on slides"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1537
+msgid "Description Background Color"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1543
+msgid "Choose a background color for slide description appears on slides"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1550
+msgid "Thumbnail Background Color"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1555
+msgid "Choose a thumbnail background color for slider thumbnails"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1562
+msgid "Thumbnail Title Color"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1567
+msgid "Choose a color for thumbnail title appears in slider details thumbnail"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1574
+msgid "Thumbnail Description Color"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1579
+msgid "Choose a color for thumbnail description appears in slider details thumbnail"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1586
+msgid "Background Color Opacity"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1604
+msgid "Choose a color opacity for title and description background color transparency"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1611
+msgid "Read More Link On"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1615
+msgid "Read More Text"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1617
+msgid "You can specify link appearance on Read More Text or on Slide"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1623
+msgid "Read More Link Text"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1628
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1640
+msgid "You can specify your own custom text for read more link"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1635
+msgid "Read More Link Color"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1647
+msgid "Open Read More Link"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1650
+msgid "In New Tab"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1651
+msgid "In Same Tab"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1653
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1679
+msgid "You can specify your own link opening choice in new tab or same tab"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1659
+msgid "Navigation Bullets Color"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1665
+msgid "You can choose a custom color for naviagation button under the slider"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1672
+msgid "Navigation Bullets Size"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1675
+msgid "Small"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1676
+msgid "Medium"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1677
+msgid "Large"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1686
+msgid "Navigation Arrow Color"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1692
+msgid "You can choose a custom color for naviagation arrow appears on slide on mouse hover"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1699
+msgid "Slide Lightbox Preview"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1705
+msgid ""
+"Select a choice Yes/No to show slide preview into lightbox, this is work when you click on "
+"a slide"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1711
+msgid "Full Screen Slide Show"
+msgstr "पूर्ण स्क्रीन स्लाइड शो"
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1718
+msgid "Select Yes/No option for full screen slide show"
+msgstr "पूर्ण स्क्रीन स्लाइड शो के लिए हां / नहीं विकल्प का चयन करें"
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:1724
+msgid "Caption Font Style"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:2275
+msgid "Choose a caption font style to apply on slide title & description"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:2281
+msgid "Custom CSS Style"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:2287
+msgid "Enter any custom css into textarea field you want to apply on this slider"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:2288
+msgid "Note:"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:2288
+msgid "Please Do Not Use"
+msgstr "उपयोग न करें"
+
+#: ultimate-responsive-image-slider-pro-settings-meta-box.php:2288
+msgid "Tag With Custom CSS"
+msgstr "कस्टम सीएसएस के साथ टैग"
+
+#: ultimate-responsive-image-slider-pro-short-code.php:12
+msgid "Shortcode not added properly, ID is missing into shortcode."
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro.php:123
+msgid "Help and Support"
+msgstr "मदद और समर्थन"
+
+#: ultimate-responsive-image-slider-pro.php:124
+msgid "Our Products"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro.php:223 ultimate-responsive-image-slider-pro.php:224
+msgid "Add New Image Slider"
+msgstr "नई छवि स्लाइडर जोड़ें"
+
+#: ultimate-responsive-image-slider-pro.php:225
+msgid "Edit Image Slider"
+msgstr "संपादित छवि स्लाइडर"
+
+#: ultimate-responsive-image-slider-pro.php:226
+msgid "New Image Slider"
+msgstr "नई छवि स्लाइडर"
+
+#: ultimate-responsive-image-slider-pro.php:227
+msgid "View Image Slider"
+msgstr "छवि स्लाइडर देखें"
+
+#: ultimate-responsive-image-slider-pro.php:228
+msgid "Search Image Slider"
+msgstr "छवि स्लाइडर खोजें"
+
+#: ultimate-responsive-image-slider-pro.php:229
+msgid "No Image Slider found"
+msgstr "छवि स्लाइडर नहीं मिला"
+
+#: ultimate-responsive-image-slider-pro.php:230
+msgid "No Image Slider found in Trash"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro.php:231
+msgid "Parent Image Slider:"
+msgstr "जनक छवि स्लाइडर:"
+
+#: ultimate-responsive-image-slider-pro.php:232
+msgid "All Image Sliders"
+msgstr "सभी छवि स्लाइडर"
+
+#: ultimate-responsive-image-slider-pro.php:263
+msgid "Slider Title"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro.php:264
+msgid "Copy Slider Shortcode"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro.php:265
+msgid "Date"
+msgstr "तारीख"
+
+#: ultimate-responsive-image-slider-pro.php:282
+msgid "Add Images"
+msgstr "छवियां जोड़ें"
+
+#: ultimate-responsive-image-slider-pro.php:283
+msgid "Apply Setting On Ultimate Responsive Image Slider"
+msgstr "छवि स्लाइडर पर अंतिम उत्तरदायी सेटिंग लागू करें"
+
+#: ultimate-responsive-image-slider-pro.php:284
+msgid "Copy Image Slider Shortcode"
+msgstr "कॉपी छवि स्लाइडर शोर्ट करें"
+
+#: ultimate-responsive-image-slider-pro.php:293
+msgid "Delete All"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro.php:331 ultimate-responsive-image-slider-pro.php:392
+msgid "Slide Title"
+msgstr "शीर्षक स्लाइड"
+
+#: ultimate-responsive-image-slider-pro.php:332
+msgid "Enter Slide Title"
+msgstr "शीर्षक स्लाइड दर्ज करें"
+
+#: ultimate-responsive-image-slider-pro.php:335
+msgid "Slide Descriptions"
+msgstr "स्लाइड विवरण"
+
+#: ultimate-responsive-image-slider-pro.php:336
+msgid "Enter Slide Descriptions"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro.php:339 ultimate-responsive-image-slider-pro.php:400
+msgid "Slide Link URL"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro.php:340 ultimate-responsive-image-slider-pro.php:401
+msgid "Enter Slide Link URL"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro.php:357
+msgid "Add New Images"
+msgstr "नई छवियाँ जोड़ें"
+
+#: ultimate-responsive-image-slider-pro.php:373
+msgid "Copy below shortcode in any Page/Post to publish your slider"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro.php:393
+msgid "Enter Slide Title Her"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro.php:396
+msgid "Slide Description"
+msgstr "स्लाइड विवरण"
+
+#: ultimate-responsive-image-slider-pro.php:397
+msgid "Enter Slide Description Here"
+msgstr "यहाँ स्लाइड विवरण दर्ज करें"
+
+#: ultimate-responsive-image-slider-pro.php:808
+msgid "Select Ultimate Responsive Image Slider Shortcode to insert into post"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro.php:828
+msgid "Select Ultimate Responsive Image Slider Shortcode To Insert Into Content"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro.php:843
+msgid "Insert Selected Shortcode"
+msgstr ""
+
+#: ultimate-responsive-image-slider-pro.php:846
+msgid "No Slider Found"
+msgstr ""
+
+#~ msgid "Show Thumbnail"
+#~ msgstr "थंबनेल दिखाएँ"
+
+#~ msgid "Slide Title Color"
+#~ msgstr "स्लाइड शीर्षक रंग"
+
+#~ msgid "Slide Title Background Color"
+#~ msgstr "स्लाइड शीर्षक पृष्ठभूमि रंग"
+
+#~ msgid "Slide Description Color"
+#~ msgstr "स्लाइड विवरण रंग"
+
+#~ msgid "Slide Description Background Color"
+#~ msgstr "स्लाइड विवरण पृष्ठभूमि का रंग"
+
+#~ msgid "Navigation Color"
+#~ msgstr "नेविगेशन रंग"
+
+#~ msgid "Configure Settings For Slider Shortcode"
+#~ msgstr "स्लाइडर शोर्ट लिए सेटिंग्स कॉन्फ़िगर"
+
+#~ msgid "Display Slider Title"
+#~ msgstr "स्लाइडर शीर्षक प्रदर्शन"
+
+#~ msgid "Select Yes/No option to show/hide slide title above slider"
+#~ msgstr "शीर्षक को दिखाने के लिए हां / नहीं विकल्प का करे"
+
+#~ msgid "Yes with Stop on Mouse Hover"
+#~ msgstr "हाँ mouseover पर रोक के साथ"
+
+#~ msgid "Slide Transition"
+#~ msgstr "स्लाइड हस्तांतरण"
+
+#~ msgid "Select a transition effect you want to apply on slides"
+#~ msgstr "आप स्लाइड पर लागू करने के लिए एक हस्तांतरण प्रभाव का चयन करें"
+
+#~ msgid "Slide Transition Speed"
+#~ msgstr "संक्रमण गति स्लाइड"
+
+#~ msgid "Set your desired transition speed of slides. Default width is 5000px"
+#~ msgstr "स्लाइड्स के अपने वांछित संक्रमण गति सेट करें। डिफ़ॉल्ट चौड़ाई 5000px है"
+
+#~ msgid "Select a slide order you want to apply on slides"
+#~ msgstr "आप स्लाइड परलागू करने के लिए एक स्लाइड आदेश का चयन करें"
+
+#~ msgid "Thumbnail Style"
+#~ msgstr "थंबनेल शैली"
+
+#~ msgid "Select a thumbnail style to apply on thumbnails"
+#~ msgstr "थंबनेल पर लागू करने के लिए एक थंबनेल शैली का चयन करें"
+
+#~ msgid "Font Style"
+#~ msgstr "फ़ॉन्ट शैली"
+
+#~ msgid "Choose a caption font style."
+#~ msgstr "एक शीर्षक फ़ॉन्ट शैली चुनें।"
+
+#~ msgid "Red"
+#~ msgstr "लाल"
+
+#~ msgid "Blue"
+#~ msgstr "नीला"
+
+#~ msgid "Black"
+#~ msgstr "काला"
+
+#~ msgid "White"
+#~ msgstr "सफेद"
+
+#~ msgid "Select a color to set slide title color"
+#~ msgstr "स्लाइड शीर्षक रंग निर्धारित करने के लिए एक रंग का चयन करें"
+
+#~ msgid "Select a color to set slide title background color"
+#~ msgstr "स्लाइड शीर्षक पृष्ठभूमि का रंग निर्धारित करने के लिए एक रंग का चयन करें"
+
+#~ msgid "Select a color to set slide description color"
+#~ msgstr "स्लाइड के वर्णन का रंग निर्धारित करने के लिए एक रंग का चयन करें"
+
+#~ msgid "Select a color to set slide description background color"
+#~ msgstr "स्लाइड विवरण पृष्ठभूमि रंग सेट करने के लिए एक रंग का चयन करें"
+
+#~ msgid ""
+#~ "Select a color to set navigation bullets color, pointer color, border color, navigation "
+#~ "arrow color"
+#~ msgstr ""
+#~ "नेविगेशन गोलियों रंग, सूचक रंग, सीमा रंग, नेविगेशन तीर रंग निर्धारित करने के लिए एक रंग का चयन करें"
+
+#~ msgid "Custom CSS"
+#~ msgstr "कस्टम सीएसएस"
+
+#~ msgid "Enter any custom css you want to apply on this slider into textarea filed"
+#~ msgstr "कोई भी कस्टम सीएसएस दर्ज करें जो इस स्लाइडर पर लागू करना चाहते हैं"
+
+#~ msgid "Note"
+#~ msgstr "नोट"
+
+#~ msgid "No Image Slider Found in Trash"
+#~ msgstr "कचरा पेटी में कोई छवि स्लाइडर नहीं मिला"
+
+#~ msgid "UR Image Slider Title"
+#~ msgstr "यू.आर. छवि स्लाइडर शीर्षक"
+
+#~ msgid "UR Image Slider Shortcode"
+#~ msgstr "यू.आर. छवि स्लाइडर शोर्ट"
+
+#~ msgid "Enter Slide Description"
+#~ msgstr "स्लाइड विवरण दर्ज करें"
+
+#~ msgid "Remove All Slides"
+#~ msgstr "सभी स्लाइड्स मिटायें"
+
+#~ msgid "Use below shortcode in any Page/Post to publish your slider"
+#~ msgstr "किसी भी पोस्ट पेज में अपने स्लाइडर प्रकाशित करने के लिए नीचे कोडशोर्ट का प्रयोग करें । "
+
+#~ msgid "Enter Slide Title Here"
+#~ msgstr "यहाँ स्लाइड शीर्षक दर्ज करें"

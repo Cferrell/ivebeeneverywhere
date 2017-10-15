@@ -1,0 +1,144 @@
+/*
+ Theme Name:   Parallax One Child
+ Theme URI:    http://example.com/accelerate-theme-child/
+ Description:  Parallax One Child Theme - Parallax One
+ Author:       Your Name!
+ Author URI:   http://example.com
+ Template:     Parallax-One
+ Version:      1.0.0
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  parallax-one-child
+*/
+
+@import url("../Parallax-One/style.css");
+
+body {
+	background: #56a3a6;
+}
+
+section#story {
+    background: #a5abaf;
+}
+
+.cbutton {
+	background-color: #464a51;
+	border: none;
+	color: black !important;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin-bottom: 20px;
+}
+
+.cbutton:hover {
+	background-color: darkgrey;
+}
+
+.parallax-one-footer-icons{
+	font-size:40px;
+  padding-left: 40px;
+  color: lightblue;
+	<br>
+	}
+
+	.title-text {
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		padding-left: 20px;
+		background-color: rgba(0,0,0,0.3);
+		width: 100%;
+	}
+
+	.title-text a {
+		color: white;
+	}
+
+.post-spacing {
+	height: 30px;
+}
+
+.post-img-wrap .post-date {
+	background: rgba(0,0,0,0.3);
+}
+
+.entry-content, .entry-content p, .entry-content span {
+    color: white;
+	}
+
+	.country-headcroatia {
+		margin-left: auto;
+		margin-right: auto;
+		width: 100%;
+		color: white;
+		text-align: center;
+	}
+
+	.country-headcroatia h2 {
+padding-bottom: 20px;
+}
+
+	.gmap {
+		margin-right:auto;
+		margin-left: auto;
+		width: 90%;
+		height: 300px;
+		border: solid;
+	}
+
+	.gallery h1 {
+		color: white;
+	}
+
+@media (max-width: 580px)
+{
+	article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+    display: block;
+    padding-bottom: 30px;
+			}
+
+	h2.entry-title {
+		font-size: 14px;
+		margin-bottom: 0px;
+		}
+
+		.entry-content, .entry-content p, .entry-content span {
+		    font-size: 12px;
+}
+
+.post-date .post-date-day {
+    font-size: 20px;
+}
+.post-img-wrap .post-date {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-width: 50px;
+    min-height: 40px;
+    padding: 10px 0px;
+	}
+
+		.country-headcroatia h2 {
+font-size: 20px;
+margin-top: 5px;
+}
+
+.country-headcroatia h1 {
+font-size: 26px;
+
+}
+		}
+
+
+		@media (min-width: 992px) {
+		.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
+		    float: none;}
+
+				#primary {
+				    margin-left: auto;
+				    margin-right: auto;
+					}
+
+			}

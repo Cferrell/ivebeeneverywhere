@@ -1,0 +1,68 @@
+== Changelog ==
+= 5.5.6 =
+* New - Image scale mode setup "cover"
+* Bug Fix - Read More Color bug fixed in layout-2
+		  -	Thumbnail position top bug fixed in layout-3 
+		  - slide title background-color and description background-color bug fixed in layout-5
+		  - slider width dropdown shows option with one gap in alternative way in metabox setting bug fixed
+
+= 5.5.5 =
+* Bug Fix - On slide Title background-color and Description background-color bug fixed.
+* New: Tips added on layout setting page
+* Fix: Read More Link Open setting
+* Fix: Light box opening issue
+
+
+
+= 5.5.4 =
+* New: Auto Play Setting extended in all layout
+* New: Slide Order Setting in all layout
+* New: Slide Distance Setting in all layout
+* New: Slider Width Setting extended in all layout
+* New: Slider Height Setting extended in all layout
+* New: Link on Slide/Text Setting in all layout
+* New: Full Screen Slide Show ON/OFF Setting in all layout
+* New: 500+ Goggle Font Setting in all layout
+* New: Multilingual, now pluign is translation ready
+* New: Thumbnail Position Setting in Layout 3
+* New: Widget support added in pro 
+* Fix: Remove id on save meta box of settings  
+* New: Shortcode detect function commented (9th march 2016)
+* New: Pre loader added
+
+= 5.5.3 =
+* Bug Fix - Free to Pro migrate setting not save bug fixed
+
+= 5.5.2 =
+* New- All free plugin slide automatly added in premium plugin(22-5-2017)
+
+= 5.5.1 =
+* New: Pre loader added (6 April 2017)
+
+= 5.5 = (discontiuned)
+* widget support added in pro 
+* remove id on save meta box of settings  
+* removed - shortcode detect function commented (9th march 2016)
+
+= 5.3 =
+* New: Transition Effect Setting
+* New: Custom CSS Setting
+* New: Lightbox Preview Setting
+
+= 5.2 =
+* New: Import & Export Settings
+* New: Add Help & Support Page
+* New: Add Our Products Page
+
+= 5.1 =
+* New: Auto Slider Height
+* New: Auto Play Transition Speed
+* Fix: Slider Layout 5 Bug Fix
+* Fix: Compatible with all other Weblizar Plugin
+* Fix: Label accepting single & double quotes 
+* Fix: Unused image crop fields removed (medium & large)
+
+= 5.0 =
+* New: Multiple Shotcode 
+* New: Shotcode button At New Page/Post
+* New: Individual Setting Panel For Each Slider layout
