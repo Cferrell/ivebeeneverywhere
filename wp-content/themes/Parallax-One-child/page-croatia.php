@@ -101,9 +101,9 @@
 		</div><!-- #primary -->
 
 <div class="gallery">
-	<a name="jump"></a>
-		<h1> Split, Croatia - Picture Gallery </h1>
 
+		<h1> Split, Croatia - Picture Gallery </h1>
+		<a name="jump"></a>
 		<br></br>
 		<?php echo do_shortcode("[URISP id=219]"); ?>
 	</div>
